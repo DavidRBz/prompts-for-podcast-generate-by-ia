@@ -41,3 +41,7 @@ o formato do roteiro deve ser
 - Não ultrapasse 5 minutos de duração
 
 #### Outputs foram analisados e modificados manualmente conforme necessário 
+
+# Copilot Designer
+Create sauron from lord of the rings as a podcaster with a microphone, retro style, isometric, cube, game style, low resolution, down angle , game boy colors, 8 bits, retro sprites
+- [Prompt](https://copilot.microsoft.com/images/create/create-sauron-from-lord-of-the-rings-as-a-podcaste/1-66a44cc16cbe401ba33e19d8dcbb7c01?id=FI%2fYZHvUtfOiuY%2bJr4KO0g%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.7Ikpg2vES31vLf70EQtC&FORM=GCRIDP&ajaxhist=0&ajaxserp=0)
