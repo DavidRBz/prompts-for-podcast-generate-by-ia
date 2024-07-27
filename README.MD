@@ -13,7 +13,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Copilot Designer](https://www.midjourney.com/app/)
+- [Copilot Designer](https://copilot.microsoft.com/images/create)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
