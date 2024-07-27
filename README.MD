@@ -1,16 +1,8 @@
 <p align="center">
 <img 
-    src="./assets/cover.jpeg"
+    src="./assets/Cover.jpeg"
     width="300"
 />
-
-<p align="center">
-    Preview do podcast
-</p>
-
-<div align="center">
-    <audio src="https://github.com/DavidRBz/prompts-for-podcast-generate-by-ia/blob/main/Podcast_Editado.mp3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
