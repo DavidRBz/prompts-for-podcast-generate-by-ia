@@ -25,7 +25,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 - [Prompts](https://github.com/DavidRBz/prompts-for-podcast-generate-by-ia/blob/main/Prompts.md)
-- [Podcast Editado](https://github.com/DavidRBz/prompts-for-podcast-generate-by-ia/blob/main/Podcast_Editado.mp3)
+- [Podcast Editado](https://github.com/DavidRBz/prompts-for-podcast-generate-by-ia/blob/main/Podcast.mp3)
 
 ---
 
